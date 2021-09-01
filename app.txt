@@ -1,0 +1,1 @@
+Nesse arquivo serão tartados alguns tópicos de Git para iniciante.
