@@ -1,2 +1,4 @@
 Nesse arquivo serão tartados alguns tópicos de Git para iniciante.
 Usando o git "diff" para buscar a diferença entre arquivos. 
+
+Git "log" serve para acompanhar os fluxo de quem mexeu no documento. 
